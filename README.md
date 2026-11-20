@@ -1,7 +1,6 @@
-<h1 align="center">Hi there</h1>
-I'm Miski, a student who's currently learning web development and software engineering.
-
-Contact me by sending me an email 
+<img src="https://github.com/miski54/miski54/blob/main/banner.png">
+<h1 align=center>About me</h1>
+I'm Miski, a student who's currently learning web development and software engineering. I like gaming, programing and learning new things. 
 
 <!--
 **miski54/miski54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
