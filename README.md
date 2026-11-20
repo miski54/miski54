@@ -1,9 +1,18 @@
-<img src="https://github.com/miski54/miski54/blob/main/banner.png">
+<img src="https://github.com/miski54/miski54/blob/main/banner.png" alt="banner">
 <h1 align=center>About me</h1>
-I'm Miski, a student who's currently learning web development and software engineering. I like gaming, programing and learning new things. 
+<p align=center>Hello, I'm Miski - a student who's currently learning web development and software engineering.<br>
+  I like gaming, programing, learning new things and animals, especially cats, though I like dogs too.
+</p>
+   
+<h1 align=center>Tech stack</h1>
+<p align=center>
+  <img align=center src="https://skillicons.dev/icons?i=py,cpp,html,css,tailwind,figma" width=500px>
+</p>
+<h1 align=center>Contact</h1>
+<p align=center>Feel free to reach out to me via <a href="mailto:miski.contact1@gmail.com">email</a>. If I don’t reply right away, don’t worry - I haven’t ignored your message.</p>
+
 
 <!--
-**miski54/miski54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
